@@ -32,7 +32,8 @@ pip install -r requirements.txt
    ```
 
 3. Start Jupyter lab:
-   ```jupyter lab 
+   ```
+   jupyter lab 
    ```
 
 ## 🎛️ Hyperparameters
